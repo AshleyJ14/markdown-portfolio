@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a Rainbow](https://i.imgur.com/dqVPZQu.jpg)
